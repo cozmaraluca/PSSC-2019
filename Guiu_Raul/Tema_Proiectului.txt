@@ -1,3 +1,0 @@
-Problema: Necesitatea unui sistem de cumparare sau inchiriere a unei masini
-
-Rezolvare: Implementarea unui sistem software care permite pentru administratot sa intretina aplicatia, iar pentru utilizator modalitate de cumparare sau inchiria o masina.
